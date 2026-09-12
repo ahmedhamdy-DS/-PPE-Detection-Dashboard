@@ -2,9 +2,6 @@
 
 A real-time Personal Protective Equipment (PPE) detection system built with YOLOv8 and Streamlit. The application monitors workplace safety compliance by detecting hardhats, masks, and safety vests, and flagging violations as they happen.
 
-## Live Demo
-
-[PPE Detection Dashboard](https://ppe-detection-avaz-turgay.streamlit.app/)
 
 ## Features
 
