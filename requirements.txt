@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+streamlit
+matplotlib
+openai
+python-dotenv
+pathlib
+imageio-ffmpeg
+streamlit-webrtc
