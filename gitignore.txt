@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Secrets / environment variables
+.env
+.env.*
+
+# Generated at runtime by the app — recreated automatically, never commit
+results/
+temp/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter checkpoints (if you ever explore data in notebooks here)
+.ipynb_checkpoints/
